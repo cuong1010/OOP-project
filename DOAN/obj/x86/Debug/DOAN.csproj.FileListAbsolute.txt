@@ -1,0 +1,15 @@
+D:\OOP\DOAN\DOAN\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\OOP\DOAN\DOAN\bin\Debug\DOAN.exe
+D:\OOP\DOAN\DOAN\bin\Debug\DOAN.pdb
+D:\OOP\DOAN\DOAN\obj\x86\Debug\DOAN.exe
+D:\OOP\DOAN\DOAN\obj\x86\Debug\DOAN.pdb
+G:\OOP\DOAN\DOAN\obj\x86\Debug\DOAN.exe
+G:\OOP\DOAN\DOAN\obj\x86\Debug\DOAN.pdb
+G:\OOP\DOAN\DOAN\bin\Debug\DOAN.exe
+G:\OOP\DOAN\DOAN\bin\Debug\DOAN.pdb
+G:\OOP\DOAN\DOAN\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OOP\DOAN\DOAN\obj\x86\Debug\DOAN.exe
+F:\OOP\DOAN\DOAN\obj\x86\Debug\DOAN.pdb
+F:\OOP\DOAN\DOAN\bin\Debug\DOAN.exe
+F:\OOP\DOAN\DOAN\bin\Debug\DOAN.pdb
+F:\OOP\DOAN\DOAN\obj\x86\Debug\ResolveAssemblyReference.cache
